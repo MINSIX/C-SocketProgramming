@@ -1,0 +1,2 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(network.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  network.vcxproj -> C:\Users\alstl\OneDrive - 금오공과대학교\수업\22-1\컴퓨터네트워크\머시기\network\x64\Debug\server.exe
